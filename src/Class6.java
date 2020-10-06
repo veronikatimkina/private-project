@@ -1,3 +1,3 @@
 public class Class6 {
-    public void foo(){}
+    public void fooooo(){}
 }
