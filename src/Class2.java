@@ -1,4 +1,4 @@
 public class Class2 {
-    //gtfyfyfuyt
+    //gtfyfyfuytsrgergerg
     public void alalala(){};
 }
