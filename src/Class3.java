@@ -1,4 +1,4 @@
 public class Class3 {
-    //fewfwef
+    //master
     public void qqq(){}
 }
