@@ -1,4 +1,4 @@
 public class Class5 {
-    //testcherrypick
+    //master
     public void foo(){}
 }
