@@ -1,4 +1,4 @@
 public class Class12 {
-    //cherrytest
+    //master
     public void foo(){}
 }
