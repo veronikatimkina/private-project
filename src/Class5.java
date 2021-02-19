@@ -1,6 +1,4 @@
 public class Class5 {
+    //testcherrypick
     public void foo(){}
-
-    //rgvergerg
-    public void foo2(){}
 }
