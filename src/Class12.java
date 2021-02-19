@@ -1,4 +1,4 @@
 public class Class12 {
-    //test
+    //master
     public void foo(){}
 }
