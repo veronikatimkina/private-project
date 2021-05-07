@@ -1,4 +1,5 @@
 public class Class3 {
-    //master
+    //masterscscsc
+    //changes in upstream
     public void qqq(){}
 }
