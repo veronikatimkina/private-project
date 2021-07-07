@@ -1,5 +1,5 @@
 public class Class2 {
-    //master
+    //masteryfuff
     public void alalala(){
 
     };
