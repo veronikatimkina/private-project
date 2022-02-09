@@ -1,4 +1,4 @@
 public class Class6 {
-    //master
+    //masterrhberherh
     public void fooooo(){}
 }
