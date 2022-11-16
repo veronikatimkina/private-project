@@ -1,4 +1,4 @@
 public class Class6 {
-    //master
+    //masterchange
     public void fooooo(){}
 }
