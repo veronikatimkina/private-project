@@ -1,4 +1,4 @@
 public class Class5 {
     //masterfbdefrbfbfb
-    public void foo(){}
+    public void foo(){}123
 }
