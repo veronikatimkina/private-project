@@ -1,7 +1,7 @@
 public class Class1 {
 
     public static void main(String[] args) {
-        System.out.println("ererggtregrgegrgte");
+        System.out.println("ererggtregrgegefwefwefwrgte");
 
     }
 }
