@@ -1,6 +1,6 @@
 public class Class2 {
     //master
     public void alalala(){
-//bdrbdrfbdbйцвйцйцвйц
+//5757575757
     };
 }
