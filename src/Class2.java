@@ -1,6 +1,6 @@
 public class Class2 {
-    //master
+    //masterавмиваиваиваививаи
     public void alalala(){
-//5757575757wfewfwfwefwef
+//5757575757wfewfwfwefwefч ч иваиваиваиваи
     };
 }
