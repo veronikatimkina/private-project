@@ -1,6 +1,6 @@
 public class Class2 {
-    //masterавмиваиваиваививаицкпцкпукпукпвамипкиукпукп
+    //masterавмиваиваиваививаицкпцкпукпукпвамипкиукпукпdfbbrbrebrb
     public void alalala(){
-//5757575757wfewfwfwefwefч ч иваиваиваиваимс иваиваиваиregrкцупукпукпукпукипукуиукиgerergergeefwefffwefweferfergergerg
+//5757575757wfewfwfwefwefч ч иваиваиваиваимс иваиваиваиregrкцупуквпукпрукруккпукпукпукипукуиукиgerergergeefwefffwefweferfergergerg
     };
 }
