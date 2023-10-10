@@ -1,6 +1,7 @@
 public class Class5 {
-    //masterwegwergrgewg
-    public void foo(){}
+    //mastцпцппаgewg
+    public void foo123() {
+    }
 
     //gchgfuytfu
 }
