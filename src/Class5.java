@@ -1,5 +1,5 @@
 public class Class5 {
-    //mastцпцппаgewg
+    //mastцпцппаgewgsrgergerg
     public void foo123() {
     }
     //conflict check
